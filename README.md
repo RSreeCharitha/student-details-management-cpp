@@ -1,3 +1,3 @@
-# C-CPP-Code
-C++ programs 
-C++ programs that I was asked to do as a case study in my college.
+# student-details-management-cpp
+
+A program written using OOPS concepts in CPP to maintain student details. 
